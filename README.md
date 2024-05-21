@@ -1,5 +1,5 @@
 # Aula-Java-1
-Lista de todas as atividades realizadas na primeira aula de Java 
+Lista de todas as atividades realizadas na primeira aula de Java na Ulbra
 
 EXPLICAÇÂO DE CADA ATIVIDADE
 
